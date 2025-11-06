@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Edy Cristian Nieto</h1>
 <h3 align="center">A passionate student developer at Texas Tech University.</h3>
 
-- 🔭 I’m currently working on **an exam scheduler website for my school and my resume website!**
+- 🔭 I’m currently working on Autogen projects.
 
-- 🌱 I’m currently learning **SpringBoot, React + vite, and backend development as a whole!**
+- 🌱 I’m currently learning how to utilize Autogen agents in everyday coding tasks.
 
 - 🤝 I’m looking for help with **Data structures and algorithms , and Spring Boot!**
 
-- 💬 Ask me about **Java!**
+- 💬 Ask me about Java, Spring Boot, Python, or AI!
 
-- 📫 How to reach me **Cristian.Nieto065@gmail.com**
+- 📫 How to reach me edycristiannieto@gmail.com :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
